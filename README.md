@@ -30,7 +30,7 @@
 
 ---
 
-<img src="assets/business-graph.gif" width="35px"><label>**My GitHub Stats**</label>
+<label>📊 **My GitHub Stats**</label>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jalallinux&show_icons=true&theme=default" alt="JalalLinuX Stats" />
   
@@ -38,8 +38,9 @@
 ---
   
 ### 🔨 Languages and Tools:
-<img align="left" alt="Laravel" height="40" style="border-radius: 5px;" src="assets/icon_laravel.jpg">
 
-<img align="left" alt="NuxtJs" height="40" style="border-radius: 5px; margin-left: 10px;" src="assets/icon_nuxt.png">
+<a target="_blank" rel="noopener noreferrer" href="https://laravel.com"><img align="left" alt="Laravel" height="40" src="assets/icon_laravel.jpg" style="max-width:100%;border-radius: 5px;"></a>
 
-<img align="left" alt="PWA" height="40" style="border-radius: 5px; margin-left: 10px;" src="assets/icon_pwa.png">
+<a target="_blank" rel="noopener noreferrer" href="https://nuxtjs.org"><img align="left" alt="NuxtJs" height="40" src="assets/icon_nuxt.png" style="max-width:100%;border-radius: 5px;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://web.dev/progressive-web-apps"><img align="left" alt="PWA" height="40" src="assets/icon_pwa.png" style="max-width:100%;border-radius: 5px;"></a>
