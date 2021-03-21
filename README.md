@@ -39,8 +39,8 @@
   
 ### 🔨 Languages and Tools:
 
-<a target="_blank" rel="noopener noreferrer" href="https://laravel.com"><img align="left" alt="Laravel" height="40" src="assets/icon_laravel.jpg" style="max-width:100%;border-radius: 5px !important;"></a>
+<img align="left" alt="Laravel" height="40" src="assets/icon_laravel.jpg" />
 
-<a target="_blank" rel="noopener noreferrer" href="https://nuxtjs.org"><img align="left" alt="NuxtJs" height="40" src="assets/icon_nuxt.png" style="max-width:100%;border-radius: 5px !important;"></a>
+<img align="left" alt="NuxtJs" height="40" src="assets/icon_nuxt.png" />
 
-<a target="_blank" rel="noopener noreferrer" href="https://web.dev/progressive-web-apps"><img align="left" alt="PWA" height="40" src="assets/icon_pwa.png" style="max-width:100%;border-radius: 5px !important;"></a>
+<img align="left" alt="PWA" height="40" src="assets/icon_pwa.png" />
