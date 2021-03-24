@@ -22,10 +22,9 @@
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Python & Data Mining
+- 🌱 I’m currently learning ... Laravel and NuxtJs
 - 👯 I’m looking to collaborate on ... Best Developers :)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Laravel and NuxtJs
 - ⚡ Fun fact: ... ABC: Always Be Coding
 
 ---
