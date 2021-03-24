@@ -21,10 +21,10 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Laravel and NuxtJs
-- 👯 I’m looking to collaborate on ... Best Developers :)
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working with a good developer team
+- 🌱 I’m currently learning Laravel and NuxtJs
+- 👯 I’m looking to collaborate on Best Developers :)
+- 🤔 I’m looking for developer friends
 - ⚡ Fun fact: ... ABC: Always Be Coding
 
 ---
