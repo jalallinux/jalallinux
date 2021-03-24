@@ -38,8 +38,14 @@
   
 ### 🔨 Languages and Tools:
 
+<a href="https://laravel.com/" target="_blank">
 <img align="left" alt="Laravel" height="40" src="assets/icon_laravel.jpg" />
+</a>
 
+<a href="https://nuxtjs.org/" target="_blank">
 <img align="left" alt="NuxtJs" height="40" src="assets/icon_nuxt.png" />
+</a>
 
+<a href="https://web.dev/progressive-web-apps/" target="_blank">
 <img align="left" alt="PWA" height="40" src="assets/icon_pwa.png" />
+</a>
