@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Laravel and NuxtJs
 - 👯 I’m looking to collaborate on Best Developers :)
 - 🤔 I’m looking for developer friends
-- ⚡ Fun fact: ... ABC: Always Be Coding
+- ⚡ Fun fact: ABC: Always Be Coding
 
 ---
 
