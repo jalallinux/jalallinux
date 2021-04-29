@@ -61,5 +61,6 @@
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](#)
 [![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_560_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jalallinux&show_icons=true&theme=default" alt="JalalLinuX" />
 </p>
