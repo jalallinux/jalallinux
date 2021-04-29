@@ -24,7 +24,7 @@
 
 [![Python](https://img.shields.io/badge/Javascript%20ES-FCC624?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/CSharp-ac3caa?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![C#](https://img.shields.io/badge/CSharp-ac3caa?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css-tricks.com/)
 
@@ -56,11 +56,10 @@
 
 ### 👨🏻‍💻 Workspace
 
-![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Processor](https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_560_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+[![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Processor](https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](#)
+[![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_560_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jalallinux&show_icons=true&theme=default" alt="JalalLinuX" />
 </p>
