@@ -38,7 +38,7 @@
 
 ### ⚙️ Tools :
 
-[![MacOS](https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
+[![MacOS](https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/windows-3973b6?&style=for-the-badge&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
