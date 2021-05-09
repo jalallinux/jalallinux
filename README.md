@@ -66,4 +66,35 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      12 repos            █████████░░░░░░░░░░░░░░░░   36.36% 
+Vue                      10 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+
+```
+
+
+
 <!--END_SECTION:waka-->
