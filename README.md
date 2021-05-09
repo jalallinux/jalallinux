@@ -70,9 +70,46 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
+**🐱 My Github Data** 
+
+> 🏆 635 Contributions in the Year 2021
+ > 
+> 📦 147.9 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
+🌆 Daytime    256 commits    ███████████░░░░░░░░░░░░░░   44.83% 
+🌃 Evening    184 commits    ████████░░░░░░░░░░░░░░░░░   32.22% 
+🌙 Night      39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Tuesday      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
+Sunday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Tehran
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -80,6 +117,9 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -95,6 +135,10 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jalallinux/jalallinux/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
