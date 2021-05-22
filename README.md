@@ -31,9 +31,9 @@
 ### 🚀 Frameworks :
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![NodeJs](https://img.shields.io/badge/NodeJs-4EA94B?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![NuxtJs](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)](https://nuxtjs.org/)
+[![NodeJs](https://img.shields.io/badge/NodeJs-4EA94B?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
+[![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)](https://vuejs.org/)
+[![NuxtJs](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt-dot-js&logoColor=4FC08D)](https://nuxtjs.org/)
 [![Jquery](https://img.shields.io/badge/Vuetify-0769AD?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 
 ### ⚙️ Tools :
