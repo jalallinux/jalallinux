@@ -66,7 +66,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -74,7 +74,7 @@
 
 > 🏆 695 Contributions in the Year 2021
  > 
-> 📦 148.5 kB Used in Github's Storage 
+> 📦 148.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,16 +111,16 @@ Sunday       71 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    62 hrs 18 mins      █████████████████████████   100.0%
+Other                    57 hrs 58 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  62 hrs 18 mins      █████████████████████████   100.0%
+Browser                  57 hrs 58 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          62 hrs 18 mins      █████████████████████████   100.0%
+Unknown Project          57 hrs 58 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      62 hrs 18 mins      █████████████████████████   100.0%
+Mac                      57 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
