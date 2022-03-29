@@ -66,7 +66,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -141,5 +141,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jalallinux/jalallinux/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 10:27:38 UTC
+ Last Updated on 29/03/2022 10:27:35 UTC
 <!--END_SECTION:waka-->
