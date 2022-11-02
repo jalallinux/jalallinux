@@ -8,7 +8,8 @@
 [![JalalLinuX | WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989177876563)
 [![JalalLinuX | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jalallinux)
 [![JalalLinuX | Paypal](https://img.shields.io/badge/Paypal-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/jalallinux)
-[![JalalLinuX | Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://reymit.ir/jalallinux)
+[![JalalLinuX | Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:bc1q0yv3m8kmgp3qq0dnj46chqc50t3cgmy605zrsr)
+[![JalalLinuX | Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)](ethereum:0x9727FeD0DC93c5A0e915bd86Da1F0eD0A1C32F9C)
 
 ---
 
@@ -147,13 +148,3 @@ CSS                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 22/07/2022 10:35:49 UTC
 <!--END_SECTION:waka-->
-
-## Support
-
-- ### Currency
-[Paypal](https://reymit.ir/jalallinux)
-
-- ### Crypto
-|Bitcoin |Etherium |
-|---     |---      |
-<img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=bc1q0yv3m8kmgp3qq0dnj46chqc50t3cgmy605zrsr" height="300" width="300" border="0" alt="Bitcoin QR code" title="bitcoin:bc1q0yv3m8kmgp3qq0dnj46chqc50t3cgmy605zrsr"> | <img src="https://www.bitcoinqrcodemaker.com/api/?style=ethereum&amp;address=0x9727FeD0DC93c5A0e915bd86Da1F0eD0A1C32F9C" height="300" width="300" border="0" alt="Ethereum QR code" title="ethereum:0x9727FeD0DC93c5A0e915bd86Da1F0eD0A1C32F9C"> |
