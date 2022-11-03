@@ -7,7 +7,7 @@
 [![JalalLinuX | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jalallinux)
 [![JalalLinuX | WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989177876563)
 [![JalalLinuX | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jalallinux)
-[![JalalLinuX | Paypal](https://img.shields.io/badge/Paypal-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/jalallinux)
+[![JalalLinuX | Currecy](https://img.shields.io/badge/Currecy-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/jalallinux)
 [![JalalLinuX | Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://camo.githubusercontent.com/3c0b59d28e046937e9523bbae05a7af975aa78c12ec981820e6bbd83858a26d2/68747470733a2f2f7777772e626974636f696e7172636f64656d616b65722e636f6d2f6170692f3f7374796c653d626974636f696e26616464726573733d62633171307976336d386b6d677033717130646e6a3436636871633530743363676d793630357a727372)
 [![JalalLinuX | Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://camo.githubusercontent.com/0cd8d8fcbaa796b426f1e56b8905d181691ffd80763b8565acc69e70b3d7d0ae/68747470733a2f2f7777772e626974636f696e7172636f64656d616b65722e636f6d2f6170692f3f7374796c653d657468657265756d26616464726573733d307839373237466544304443393363354130653931356264383644613146306544304131433332463943)
 
