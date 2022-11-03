@@ -8,7 +8,7 @@
 [![JalalLinuX | WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989177876563)
 [![JalalLinuX | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jalallinux)
 
-### Donate me on :
+### Donate me with :
 
 [![JalalLinuX | Currecy](https://img.shields.io/badge/Currecy-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/jalallinux)
 [![JalalLinuX | Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://camo.githubusercontent.com/3c0b59d28e046937e9523bbae05a7af975aa78c12ec981820e6bbd83858a26d2/68747470733a2f2f7777772e626974636f696e7172636f64656d616b65722e636f6d2f6170692f3f7374796c653d626974636f696e26616464726573733d62633171307976336d386b6d677033717130646e6a3436636871633530743363676d793630357a727372)
