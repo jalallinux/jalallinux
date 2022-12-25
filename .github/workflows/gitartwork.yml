@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: jalallinux
             # Text on contribution graph 
-            text: JalalLinuX
+            text: HiDevs
        - uses: jasineri/simple-push-action@v1
