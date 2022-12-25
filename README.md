@@ -25,7 +25,9 @@
 - <img src="assets/images/emoji/High-Voltage.gif" width="25px"> Fun fact: ABC: Always Be Coding
 
 <p align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jalallinux&theme=github_dark" alt="jallallinux" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jalallinux&theme=github_dark" alt="jallallinux" />
+<img align="center" src="https://raw.githubusercontent.com/jalallinux/jalallinux/master/gitartwork.svg" alt="JalalLinuX" />
+</p>
 
 ---
 
