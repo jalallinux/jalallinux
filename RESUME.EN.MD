@@ -21,20 +21,38 @@ I am passionate about computer programming, especially in the field of software 
 
 ## Skills:
 
-- Git
-- PHP
-- Laravel
-- Nestjs
-- Nuxtjs
-- Docker
-- Microservice
-- Postgres
-- MongoDB
-- Cassandra
-- Developing PHP packages
-- IoT
-- Thingsboard
-- Data warehousing
+- Backend development: 
+  - Git
+  - PHP
+  - Laravel
+  - Nestjs
+  - Microservice
+  - PHP packages
+- Front development:
+  - Html
+  - JavaScript
+  - Vuejs
+  - VueX
+  - jQuery
+  - Nuxtjs
+- Database:
+  - MySQL
+  - Postgres
+  - MongoDB
+  - Cassandra
+  - Scylla
+  - Warehouse
+- DevOps:
+  - Docker
+- Testing:
+  - Php Unit
+  - Pest
+- Tools:
+  - Github Action
+  - Thingsboard
+- Other:
+  - IoT
+  - Redis
 
 <br>
 
@@ -43,22 +61,23 @@ I am passionate about computer programming, especially in the field of software 
 ### 2. Middle Laravel Developer, DanialMoj, Tehran
 > 1400/06 - Now
 
-Utilized Laravel and Nestjs to develop and maintain backend services for various clients.
 Implemented microservice architecture using Docker and Kubernetes, resulting in improved scalability and fault tolerance.
 Designed and optimized database schemas for Postgres, MongoDB, and Cassandra databases.
-Developed custom PHP packages for internal use and open-source distribution, like [laravel-shinobi-cctv](https://github.com/jalallinux/laravel-shinobi-cctv) that was sponsored by [Shinobi System](https://shinobi.video/).
+Developed custom PHP packages for internal use and open-source distribution, like [laravel-shinobi-cctv](https://github.com/jalallinux/laravel-shinobi-cctv) that was sponsored by [Shinobi System](https://shinobi.video).
 Implemented IoT solutions using Thingsboard and other platforms.
 Designed and implemented data warehousing solutions for large-scale data processing.
+Worked closely with project managers and designers to ensure project requirements were met on time and within budget.
 
 `Billing` | `Data Warehouse` | `IoT` | `Cassandra` | `PostgreSQL` | `Microservice` | `Thingsboard` | `Docker` | 
 
 ### 1. PHP Developer, Webina, Shiraz
 > 1399/10 - 1400/06
 
+Utilized Laravel and Nestjs to develop and maintain backend services for various clients.
 Developed and maintained PHP applications for various clients, utilizing Laravel and other PHP frameworks.
 Built and maintained RESTful APIs for client applications, integrating with third-party services as needed.
 Implemented automated testing and deployment processes using continuous integration and deployment tools.
 Optimized database performance and scalability for Postgres and MongoDB databases.
-Worked closely with project managers and designers to ensure project requirements were met on time and within budget.
+Developed and maintained RESTful, GraphQL and RPC APIs using Laravel, MySQL, Postgres, and Redis.
 
-`GraphQL` | `MongoDB` | `Online Shop Builder` | `Scrum` | `Jira` | 
+`GraphQL` | `RESTful` | `MongoDB` | `RPC` | `Shopify` | `Scrum` | `Jira` | 
