@@ -1,5 +1,5 @@
 <h3 align="right">
-  <a href="RESUME.FA.MD">🇮🇷 Farsi</a>
+  <a href="fa.md">🇮🇷 Farsi</a>
 </h3>
 
 # MohammadJavad JalalZadeh
