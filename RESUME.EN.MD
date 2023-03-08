@@ -28,6 +28,7 @@ I am passionate about computer programming, especially in the field of software 
   - Nestjs
   - Microservice
   - PHP packages
+  - Redis
 - Front development:
   - Html
   - JavaScript
@@ -43,6 +44,7 @@ I am passionate about computer programming, especially in the field of software 
   - Scylla
   - Warehouse
 - DevOps:
+  - Linux Servers
   - Docker
 - Testing:
   - Php Unit
@@ -50,9 +52,7 @@ I am passionate about computer programming, especially in the field of software 
 - Tools:
   - Github Action
   - Thingsboard
-- Other:
   - IoT
-  - Redis
 
 <br>
 
