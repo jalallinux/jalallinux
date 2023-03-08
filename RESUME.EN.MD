@@ -21,7 +21,7 @@ I am passionate about computer programming, especially in the field of software 
 
 ## Skills:
 
-- Backend development: 
+- ### Backend: 
   - Git
   - PHP
   - Laravel
@@ -29,27 +29,27 @@ I am passionate about computer programming, especially in the field of software 
   - Microservice
   - PHP packages
   - Redis
-- Front development:
+- ### Front:
   - Html
   - JavaScript
   - Vuejs
   - VueX
   - jQuery
   - Nuxtjs
-- Database:
+- ### Database:
   - MySQL
   - Postgres
   - MongoDB
   - Cassandra
   - Scylla
   - Warehouse
-- DevOps:
+- ### DevOps:
   - Linux Servers
   - Docker
-- Testing:
+- ### Testing:
   - Php Unit
   - Pest
-- Tools:
+- ### Tools:
   - Github Action
   - Thingsboard
   - IoT
