@@ -4,7 +4,10 @@
 
 # MohammadJavad JalalZadeh
 
-📍 Tehran/Karaj | 📞 09177876563 | 📩 [smjjalalzadeh93@gmail.com](mailto:smjjalalzadeh93@gmail.com)
+- 📍 Tehran/Karaj
+- 📞 09177876563
+- 📩 [smjjalalzadeh93@gmail.com](mailto:smjjalalzadeh93@gmail.com)
+
 <br>
 
 ## Introduction
