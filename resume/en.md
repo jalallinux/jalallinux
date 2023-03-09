@@ -12,7 +12,13 @@
 
 ## Introduction
 
-I am passionate about computer programming, especially in the field of software development. I am highly motivated to learn new concepts and modern programming techniques. I have a strong work ethic and am a hard worker.
+I am a Software Engineer with over 4 years of experience in software development. I have a strong interest in emerging technologies and stay up-to-date with the latest trends and advancements in the field.
+
+I have always been fascinated by the power of technology to transform the world around us and have made it my mission to contribute to this transformation through my work as a programmer. Over the years, I have honed my skills in various programming languages and frameworks, and have gained expertise in developing robust and scalable software solutions.
+
+My passion for technology extends beyond my professional life. In my free time, I enjoy exploring new tech gadgets and experimenting with emerging technologies. I believe that technology has the power to bring positive change to our society and I am excited to be a part of this journey.
+
+In summary, I am a driven and dedicated programmer with a strong interest in technology and a track record of delivering high-quality software solutions. I am always looking for new challenges and opportunities to learn and grow in my career.
 
 <br>
 
