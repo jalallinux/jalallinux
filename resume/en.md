@@ -24,50 +24,52 @@ I am passionate about computer programming, especially in the field of software 
 
 ## Skills:
 
+<blockquote align="center"><h3>🤏 Beginner | 👍 Intermediate | 👌 Expert</h3></blockquote>
+
 - ### Backend: 
-  - Git ([Certificate](https://coursera.org/share/d7a23e527d92e2fc8b1a379ae6a47203))
-  - PHP
-  - Laravel
-  - NestJs
-  - AdonisJs
-  - Microservice
-  - PHP packages
-  - Redis
-  - MQTT
-  - RabbitMQ
-  - Apache Kafka
+  - 👌 Git ([Certificate](https://coursera.org/share/d7a23e527d92e2fc8b1a379ae6a47203))
+  - 👌 PHP
+  - 👌 Laravel
+  - 👌 PHP packages
+  - 👍 NestJs
+  - 👍 AdonisJs
+  - 👍 Microservice
+  - 👍 Redis
+  - 👌 Apache Kafka
+  - 👍 MQTT
+  - 🤏 RabbitMQ
 - ### Front:
-  - Html
-  - JavaScript
-  - Vuejs
-  - VueX
-  - jQuery
-  - Nuxtjs
+  - 👍 Html
+  - 🤏 CSS
+  - 👍 jQuery
+  - 👌 JavaScript
+  - 👌 Vuejs
+  - 👌 VueX
+  - 👌 Nuxtjs
 - ### Database:
-  - MySQL
-  - Postgres
-  - MongoDB
-  - Cassandra
-  - Scylla
-  - Warehouse
+  - 👌 MySQL
+  - 👌 Postgres
+  - 👍 MongoDB
+  - 👍 Cassandra
+  - 👍 Scylla
+  - 🤏 Warehouse
 - ### DevOps:
-  - Linux Servers
-  - Nginx
-  - Apache
-  - Docker
+  - 👍 Linux Servers
+  - 👌 Nginx
+  - 👌 Apache
+  - 👌 Docker
 - ### Testing:
-  - TDD
-  - API Test
-  - Selenium
-  - Php Unit
-  - Pest
+  - 👍 TDD
+  - 👌 API Test
+  - 👌 Php Unit
+  - 👌 Pest
+  - 👍 Selenium
 - ### Tools:
-  - Github Action
-  - Thingsboard
-  - IoT
-  - Raspberry
-  - Embedded
-  - Lorawan
+  - 🤏 Github Action
+  - 👍 Thingsboard
+  - 👍 IoT
+  - 🤏 Embedded
+  - 🤏 Lorawan
 
 <br>
 
