@@ -2,7 +2,7 @@
   <a href="fa.md">🇮🇷 Farsi</a>
 </h3>
 
-# MohammadJavad JalalZadeh
+# 👤 MohammadJavad JalalZadeh
 
 - 📍 Tehran/Karaj
 - 📞 09177876563
@@ -10,7 +10,7 @@
 
 <br>
 
-## Introduction
+## 👋 Introduction
 
 I am a Software Engineer with over 4 years of experience in software development. I have a strong interest in emerging technologies and stay up-to-date with the latest trends and advancements in the field.
 
@@ -22,13 +22,13 @@ In summary, I am a driven and dedicated programmer with a strong interest in tec
 
 <br>
 
-## Education
+## 🏫 Education
 
 -  Bachelor of Software Engineering from Persian Gulf University
 
 <br>
 
-## Skills
+## 💪 Skills
 
 <blockquote align="right"><h3>🤏 Beginner | 👍 Intermediate | 👌 Expert</h3></blockquote>
 
@@ -79,7 +79,7 @@ In summary, I am a driven and dedicated programmer with a strong interest in tec
 
 <br>
 
-## Experience
+## 🧑‍💻 Experience
 
 ### 2. Middle Laravel Developer, DanialMoj, Tehran
 > 1400/06 - Now
@@ -104,3 +104,14 @@ Optimized database performance and scalability for Postgres and MongoDB database
 Developed and maintained RESTful, GraphQL and RPC APIs using Laravel, MySQL, Postgres, and Redis.
 
 `GraphQL` | `RESTful` | `MongoDB` | `RPC` | `Shopify` | `Scrum` | `Jira` | 
+
+<br>
+
+## 🧠 Soft Skills
+- Communication
+- Attention to detail
+- Critical thinking
+- Resilience
+- Problem-solving
+- Teamwork
+
