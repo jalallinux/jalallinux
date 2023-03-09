@@ -24,7 +24,7 @@ I am passionate about computer programming, especially in the field of software 
 
 ## Skills
 
-<blockquote align="center"><h3>🤏 Beginner | 👍 Intermediate | 👌 Expert</h3></blockquote>
+<blockquote align="right"><h3>🤏 Beginner | 👍 Intermediate | 👌 Expert</h3></blockquote>
 
 - ### Backend: 
   - 👌 Git ([Certificate](https://coursera.org/share/d7a23e527d92e2fc8b1a379ae6a47203))
