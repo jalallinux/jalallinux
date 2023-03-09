@@ -22,7 +22,7 @@ I am passionate about computer programming, especially in the field of software 
 
 <br>
 
-## Skills:
+## Skills
 
 <blockquote align="center"><h3>🤏 Beginner | 👍 Intermediate | 👌 Expert</h3></blockquote>
 
