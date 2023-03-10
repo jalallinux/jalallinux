@@ -1,5 +1,7 @@
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm JalalLinuX
 
+[![JalalLinuX | Resume](https://img.shields.io/badge/Resume-86263c?style=for-the-badge)](https://flowcv.com/resume/ktdclmbp79)
+
 ### Reach me on :
 
 [![JalalLinuX | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalallinux)
