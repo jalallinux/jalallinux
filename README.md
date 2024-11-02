@@ -81,49 +81,47 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 442 Contributions in the Year 2022
+> 📦 338.8 kB Used in GitHub's Storage 
  > 
-> 📦 229.3 kB Used in GitHub's Storage 
+> 🏆 1,756 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 29 Private Repositories  
+> 🔑 47 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    236 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43% 
-🌆 Daytime    422 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
-🌃 Evening    428 commits    █████████░░░░░░░░░░░░░░░░   37.06% 
-🌙 Night      69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
+🌞 Morning                2235 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌆 Daytime                3525 commits        ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                2848 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌙 Night                  443 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Tuesday      175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Wednesday    176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
-Thursday     212 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Friday       165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Sunday       118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-
+Monday                   1454 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  1176 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Wednesday                902 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Thursday                 1317 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   1354 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Sunday                   1363 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Tehran
+🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -136,25 +134,24 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      26 repos            ████████████░░░░░░░░░░░░░   50.0% 
-Vue                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
+PHP                      59 repos            ████████████░░░░░░░░░░░░░   47.58 % 
+Vue                      19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/jalallinux/jalallinux/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2022 10:35:49 UTC
+ Last Updated on 02/11/2024 10:47:40 UTC
 <!--END_SECTION:waka-->
