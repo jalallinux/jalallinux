@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # اجرا در ساعت 10:00 UTC
+    - cron: '0 5 * * *'  # اجرا در ساعت 08:30 UTC
   workflow_dispatch: # برای اجرای دستی
 
 jobs:
