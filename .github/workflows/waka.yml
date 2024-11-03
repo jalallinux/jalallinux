@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '0 10 * * *'
-  workflow_dispatch:
+    - cron: '0 10 * * *'  # اجرا در ساعت 10:00 UTC
+  workflow_dispatch: # برای اجرای دستی
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
