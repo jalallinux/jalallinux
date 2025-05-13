@@ -81,7 +81,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20million%20lines%20of%20code-blue)
 
@@ -124,16 +124,26 @@ Sunday                   1443 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 6 mins        █████████████░░░░░░░░░░░░   53.92 % 
+PHP                      2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.72 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     3 hrs 12 mins       ██████████████░░░░░░░░░░░   55.63 % 
+PhpStorm                 2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tond-backend             2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+tond                     2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
+General                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Media                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Location                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 25 mins       ███████████████░░░░░░░░░░   59.42 % 
+Mac                      2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +163,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 05:25:59 UTC
+ Last Updated on 13/05/2025 05:25:15 UTC
 <!--END_SECTION:waka-->
