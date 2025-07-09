@@ -79,7 +79,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,17 +124,18 @@ Sunday                   1567 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    5 hrs 48 mins       █████████████████████████   100.00 % 
+Other                    9 hrs 48 mins       █████████████████████████   99.99 % 
+Groff                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-MicrosoftEdge            5 hrs 46 mins       █████████████████████████   99.23 % 
-iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+MicrosoftEdge            9 hrs 45 mins       █████████████████████████   99.54 % 
+iTerm2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-tond-backend             5 hrs 48 mins       █████████████████████████   100.00 % 
+tond-backend             9 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -154,5 +155,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 05:27:29 UTC
+ Last Updated on 09/07/2025 05:32:31 UTC
 <!--END_SECTION:waka-->
