@@ -79,8 +79,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
@@ -89,7 +87,7 @@
 
 > 📦 332.1 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2025
+> 🏆 180 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,53 +95,14 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2908 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-🌆 Daytime                4510 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌃 Evening                3172 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌙 Night                  472 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1894 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Tuesday                  1473 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                1146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Thursday                 1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Friday                   1508 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 1777 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Sunday                   1664 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      67 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+PHP                      68 repos            █████████████░░░░░░░░░░░░   50.75 % 
 Vue                      19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 TypeScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Blade                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
@@ -153,5 +112,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 05:28:48 UTC
+ Last Updated on 23/09/2025 05:28:04 UTC
 <!--END_SECTION:waka-->
