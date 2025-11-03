@@ -95,45 +95,6 @@
  > 
 > 🔑 60 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2917 commits        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-🌆 Daytime                4545 commits        ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌃 Evening                3217 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-🌙 Night                  476 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1899 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Tuesday                  1483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Thursday                 1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Friday                   1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Sunday                   1664 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -151,5 +112,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 05:28:39 UTC
+ Last Updated on 03/11/2025 05:31:03 UTC
 <!--END_SECTION:waka-->
