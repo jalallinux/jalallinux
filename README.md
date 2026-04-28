@@ -124,16 +124,20 @@ Sunday                   1839 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      7 mins              ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+.env file                4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+laraxbot                 22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +157,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 07:49:55 UTC
+ Last Updated on 28/04/2026 07:45:43 UTC
 <!--END_SECTION:waka-->
