@@ -87,7 +87,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 350.1 kB Used in GitHub's Storage 
+> 📦 350.2 kB Used in GitHub's Storage 
  > 
 > 🏆 347 Contributions in the Year 2026
  > 
@@ -124,20 +124,16 @@ Sunday                   1839 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-PHP                      7 mins              ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-.env file                4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laraxbot                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -157,5 +153,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 08:00:48 UTC
+ Last Updated on 05/05/2026 07:34:15 UTC
 <!--END_SECTION:waka-->
