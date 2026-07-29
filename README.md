@@ -79,21 +79,25 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 396.3 kB Used in GitHub's Storage 
+> 📦 396.9 kB Used in GitHub's Storage 
  > 
-> 🏆 379 Contributions in the Year 2026
+> 🏆 380 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 71 Private Repositories 
+> 🔑 72 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -143,11 +147,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      73 repos            ████████████░░░░░░░░░░░░░   49.66 % 
-Vue                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+PHP                      73 repos            ████████████░░░░░░░░░░░░░   49.32 % 
+Vue                      22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
@@ -157,5 +161,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 07:56:11 UTC
+ Last Updated on 29/07/2026 07:59:44 UTC
 <!--END_SECTION:waka-->
