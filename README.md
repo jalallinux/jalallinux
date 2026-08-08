@@ -79,6 +79,10 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.00%20million%20lines%20of%20code-blue?style=flat)
@@ -95,6 +99,51 @@
  > 
 > 🔑 72 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3185 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌆 Daytime                5175 commits        ██████████░░░░░░░░░░░░░░░   41.70 % 
+🌃 Evening                3524 commits        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+🌙 Night                  526 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  1617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                1382 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Thursday                 1890 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Friday                   1653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 1910 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Sunday                   1868 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -112,5 +161,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 06:25:08 UTC
+ Last Updated on 08/08/2026 05:57:30 UTC
 <!--END_SECTION:waka-->
