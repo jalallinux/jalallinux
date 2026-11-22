@@ -79,13 +79,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 436.3 kB Used in GitHub's Storage 
+> 📦 436.4 kB Used in GitHub's Storage 
  > 
 > 🏆 779 Contributions in the Year 2026
  > 
@@ -157,5 +161,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jalallinux/jalallinux/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 15:06:10 UTC
+ Last Updated on 22/11/2026 13:15:52 UTC
 <!--END_SECTION:waka-->
